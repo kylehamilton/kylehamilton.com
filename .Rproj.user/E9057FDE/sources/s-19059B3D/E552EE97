@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1597959798701.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2304118588",
+    "id" : "E552EE97",
+    "lastKnownWriteTime" : 1597958647,
+    "last_content_update" : 1597958647,
+    "path" : "~/GitHub/kylehamilton.com/config/_default/params.toml",
+    "project_path" : "config/_default/params.toml",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
