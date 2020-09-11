@@ -22,7 +22,7 @@
 #  name = "Talks"
 #  url = "#talks"
 #  weight = 30
-  
+
 [[main]]
   name = "Publications"
   url = "#publications"
@@ -48,5 +48,5 @@
 
 [[main]]
   name = "CV"
-  url = "files/Hamilton_CV_08202020.pdf"
+  url = "files/Hamilton_CV_09112020.pdf"
   weight = 61

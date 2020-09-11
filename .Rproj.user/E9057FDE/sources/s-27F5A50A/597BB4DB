@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "856339371",
+    "hash" : "0",
     "id" : "597BB4DB",
-    "lastKnownWriteTime" : 1597958718,
-    "last_content_update" : 1597958718,
+    "lastKnownWriteTime" : 1599867080,
+    "last_content_update" : 1599867080751,
     "path" : "~/GitHub/kylehamilton.com/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
+        "cursorPosition" : "50,35",
+        "scrollLine" : "5"
     },
     "read_only" : false,
     "read_only_alternatives" : [
