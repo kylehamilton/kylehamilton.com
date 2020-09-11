@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1597959804466.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1970032376",
     "id" : "D64F6F2A",
     "lastKnownWriteTime" : 1597959830,
-    "last_content_update" : 1597959830178,
+    "last_content_update" : 1597959885053,
     "path" : "~/GitHub/kylehamilton.com/config/_default/config.toml",
     "project_path" : "config/_default/config.toml",
     "properties" : {
         "cursorPosition" : "83,9",
-        "scrollLine" : "61"
+        "scrollLine" : "37"
     },
     "read_only" : false,
     "read_only_alternatives" : [
